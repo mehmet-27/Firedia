@@ -1,0 +1,11 @@
+name: Firedia
+version: '${project.version}'
+main: com.mehmet_27.firedia.Firedia
+api-version: 1.13
+authors: [ Mehmet_27 ]
+description: Deneme eklentisi.
+
+commands:
+  firedia:
+    description: Main command
+    permission: firedia.admin

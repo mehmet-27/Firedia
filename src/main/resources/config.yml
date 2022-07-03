@@ -1,0 +1,25 @@
+pickaxes:
+  pisirme:
+    name: '&6Pişirme Kazması'
+    lore:
+      - '&eKırdığınız madenleri otomatik pişirir.'
+  spawner:
+    name: '&6Spawner Kazması'
+    lore:
+      - '&eSpawner kırdığınızda %50 ihtimalle spawner elde edersiniz.'
+  super:
+    name: '&6Süper Kazma'
+    lore:
+      - '&eHem kırdığınız madenleri pişirir hemde spawner kırarken'
+      - '&e%50 şans ile spawner elde edersiniz.'
+
+messages:
+  reload: '&aYapılandırma yeniden yüklendi.'
+  notFound: '&cOyuncu bulunamadı veya aktif değil.'
+  wrongUsage: '&eDoğru kullanım: /firedia <oyuncu> <kazma>'
+  done: '&b%player% &aadlı oyuncuya kazma verildi.'
+  fullInventory: '&eÖzel Kazma aldın, envaterin dolu olduğu için yere düştü.'
+  getPickaxe: '&aÖzel Kazma aldın.'
+  specifyPickaxe: '&cLütfen kazma türü belirtin.'
+  wrongType: '&cGeçersiz kazma türü belirttiniz.'
+  onlyConsole: '&cBu komut sadece konsoldan kullanılabilir.'
